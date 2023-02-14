@@ -16,7 +16,7 @@ LRB is an ERC20 token available on Ethereum (same as SHIB) Only purchase from of
 # Swap WETH
 The best and fastest way to flip Shiba marketcap is to swap all of your SHIB for LRB. You can do this easily with Uniswap.
 
-# Join the QOM Community
+# Join the LRB Community
 Community is everything. You must be engaged. Same like Shiba, LRB project is 100% decentralized & community driven. You are on the team now.
 
 
