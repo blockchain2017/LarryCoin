@@ -9,23 +9,16 @@
 </div>
 
 
-# Larry Coin Marketplace Platform
+# Buy LRB
 
-kAEWCOIN Marketplace is an ecommerce platform. We have many products available for sale from members. We use kAEWCOIN as a medium of payment. Our platform has compiled products in each category to facilitate product search. And a convenient, fast payment method via Blockchain is safe for customers. And every transaction made through PKC COIN will receive a 10% discount on every transaction.
+LRB is an ERC20 token available on Ethereum (same as SHIB) Only purchase from official links. Verify you have the correct contract.
 
-# Payment gateway
-Larry Coin ecommerce platform we have create tokens on Binance smart chain as a highly secure blockchain payment gateway with low fees and support for trading on top exchanges. Moreover, our marketing team is expanding as a payment gateway on coinpayment.net our growing partnerships in the future.
+# Swap WETH
+The best and fastest way to flip Shiba marketcap is to swap all of your SHIB for LRB. You can do this easily with Uniswap.
 
-# Stake rewards
-Step-by-Step Stake Rewards
+# Join the QOM Community
+Community is everything. You must be engaged. Same like Shiba, LRB project is 100% decentralized & community driven. You are on the team now.
 
-Buy token on exchange BNB coin in wallet. Connect wallet and buy token recieve automatic
-
-Keep coins in our wallet Go to swap platform. First connect & confirm wallet, select day token lock, transfer PKC token to the system and comfirm a stake.
-
-Enjoy regular profits You rewards are generated daily until the date lock stake Now it’s time to enjoy your life and finally let your money work for you every day.
-
-# Contact Kaew Coin (KAEW)
 
 ⭕ Website: https://www.larrycoin.net
 
