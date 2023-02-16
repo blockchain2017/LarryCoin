@@ -1,6 +1,6 @@
 # Larry Coin Crypto for Payment, Staking, Marketplace platform.
 
-<div align="center"><img src="https://kaew.io/wp-content/uploads/2023/01/kaewmabin1.fw_.png)" /><br />
+<div align="center"><img src="https://larrycoin.net/wp-content/uploads/2023/02/logo300x300.png)" /><br />
 </div>
 <div align="center">
   <h1><br />
