@@ -24,8 +24,8 @@ Community is everything. You must be engaged. Same like Shiba, LRB project is 10
 
 📄 Whitepaper : https://docs.larrycoin.net
 
-👨🏿‍🤝‍👨🏿Twitter : https://twitter.com/
+👨🏿‍🤝‍👨🏿Twitter : https://twitter.com/LARRY33ARMY
 
-👨🏿‍🤝‍👨🏿Telegram Group : https://t.me
+👨🏿‍🤝‍👨🏿Telegram Group : https://t.me/+kVmmWlAaXTlmNzdl
 
 🔒 Smart Contract : https://etherscan.io/token/0x890bD58e675fBE1c28fF46f6162D99C77bF0A312
