@@ -1,6 +1,6 @@
 # Larry Coin Crypto for Payment, Staking, Marketplace platform.
 
-<div align="center"><img src="https://larrycoin.net/wp-content/uploads/2023/02/logo300x300.png" /><br />
+<div align="center"><img src="https://larrycoin.net/wp-content/uploads/2023/02/1-1.fw_.png" /><br />
 </div>
 <div align="center">
   <h1><br />
@@ -28,4 +28,4 @@ Community is everything. You must be engaged. Same like Shiba, LRB project is 10
 
 👨🏿‍🤝‍👨🏿Telegram Group : https://t.me
 
-🔒 Smart Contract : https://etherscan.io/token/0x82f7fe5fbe0509ee8fef29a4f5130e4228a9a1e9
+🔒 Smart Contract : https://etherscan.io/token/0x890bD58e675fBE1c28fF46f6162D99C77bF0A312
