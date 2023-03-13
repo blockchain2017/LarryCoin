@@ -1,4 +1,4 @@
-# Larry Coin Crypto for Staking, Marketplace platform.
+# Larry Coin Crypto for Marketplace, NFT Staking, DEX platform.
 
 <div align="center"><img src="https://larrycoin.net/wp-content/uploads/2023/02/1-1.fw_.png" /><br />
 </div>
